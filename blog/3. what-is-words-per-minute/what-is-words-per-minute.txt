@@ -1,0 +1,119 @@
+[title]: What is ‘Words Per Minute’?
+
+[desc]:
+Ask anyone how fast they type and they’ll proudly tell you their words per minute (WPM), but ask even your speediest friends how WPM is calculated and you’ll likely get a lot of “um”, “hmm”, “uhh…” responses. 
+Today, we’re going to fix that!
+
+
+[body]:
+Ask anyone how fast they type and they’ll proudly tell you their words per minute (WPM), but ask even your speediest friends how WPM is calculated and you’ll likely get a lot of “um”, “hmm”, “uhh…” responses. 
+Today, we’re going to fix that!
+
+The Basics of WPM
+Words Per Minute is the number of characters — including spaces and punctuation — typed in one minute, divided by five. 
+“I can” counts as one word, while “popularize” and “let’s type” both count as two.
+
+The famous sentence “The quick brown fox jumped over the lazy dogs.” contains 46 characters. 
+If it takes you one minute to type this sentence, we can calculate your WPM:
+
+Characters Typed in One Minute / 5 = WPM
+46 / 5 = 9.2 WPM
+
+But what happens if your finger slips and you make a mistake?
+
+Accuracy of Inaccuracies
+While there is no standard for factoring in incorrectly typed letters, we’ve found the best solution is to separate Accuracy and Speed. 
+In the above example, if you mistyped one letter you would have still typed 9.2 WPM, but with a 98% accuracy.
+
+Gross WPM vs Net WPM
+In past versions of Bicheech.com, we used a statistic called “Net Words Per Minute”, which was your WPM * Accuracy %. 
+We have since removed this calculation, as it motivated typists to focus too heavily on their WPM while ignoring their accuracy, leading to more mistakes and inevitably lower overall WPM.
+Slow down to go faster!
+
+
+
+Accurately Measuring Typing Ability
+While the calculations above are pretty straightforward, they do not take into account the difficulty of the content being typed, the length of the test, or the familiarity the typist may have with the material.
+
+Difficulty of Content
+It should be no surprise that typing “I am a student and I enjoy typing easy words!” is a whole lot easier than typing “Pneumonoultramicroscopicsilicovolcanoconiosis”, despite them both being 45 characters long. 
+Our Timed Typing Tests contain content specifically written to closely mimic average word and sentence length, structure, and punctuation.
+
+Length of Test
+Much like running, the longer you type, the slower you will go; to a point. 
+We have found the 3 and 5-minute tests to be the most accurate gauge of overall typing speed, as they are long enough to produce a repeatable average speed and accuracy, without being too long as to fatigue the wrists and fingers.
+
+Familiarity of Content
+Type the same sentence over and over and you will get faster and faster. 
+Your fingers love familiar content and are quick to commit repetition to muscle memory. 
+While great for typing the most common English words, this may inflate your speed if typing the same content repeatedly. 
+To combat this, our typing tests are generated from a huge database of suitable content.
+
+But wait, how do I increase my WPM?
+Now that’s the million WPM question isn’t it? I hear our free typing tutor works pretty well, you should check it out!
+
+Happy typing!
+
+
+
+
+*****************************************************************************************************************************************************************************************************************************************
+
+
+
+[title]: '' гэж юу вэ?
+
+
+[desc]:
+Ask anyone how fast they type and they’ll proudly tell you their words per minute (WPM), but ask even your speediest friends how WPM is calculated and you’ll likely get a lot of “um”, “hmm”, “uhh…” responses. 
+Today, we’re going to fix that!
+
+
+[body]:
+Ask anyone how fast they type and they’ll proudly tell you their words per minute (WPM), but ask even your speediest friends how WPM is calculated and you’ll likely get a lot of “um”, “hmm”, “uhh…” responses. 
+Today, we’re going to fix that!
+
+The Basics of WPM
+Words Per Minute is the number of characters — including spaces and punctuation — typed in one minute, divided by five. 
+“I can” counts as one word, while “popularize” and “let’s type” both count as two.
+
+The famous sentence “The quick brown fox jumped over the lazy dogs.” contains 46 characters. 
+If it takes you one minute to type this sentence, we can calculate your WPM:
+
+Characters Typed in One Minute / 5 = WPM
+46 / 5 = 9.2 WPM
+
+But what happens if your finger slips and you make a mistake?
+
+Accuracy of Inaccuracies
+While there is no standard for factoring in incorrectly typed letters, we’ve found the best solution is to separate Accuracy and Speed. 
+In the above example, if you mistyped one letter you would have still typed 9.2 WPM, but with a 98% accuracy.
+
+Gross WPM vs Net WPM
+In past versions of Bicheech.com, we used a statistic called “Net Words Per Minute”, which was your WPM * Accuracy %. 
+We have since removed this calculation, as it motivated typists to focus too heavily on their WPM while ignoring their accuracy, leading to more mistakes and inevitably lower overall WPM.
+Slow down to go faster!
+
+
+
+Accurately Measuring Typing Ability
+While the calculations above are pretty straightforward, they do not take into account the difficulty of the content being typed, the length of the test, or the familiarity the typist may have with the material.
+
+Difficulty of Content
+It should be no surprise that typing “I am a student and I enjoy typing easy words!” is a whole lot easier than typing “Pneumonoultramicroscopicsilicovolcanoconiosis”, despite them both being 45 characters long. 
+Our Timed Typing Tests contain content specifically written to closely mimic average word and sentence length, structure, and punctuation.
+
+Length of Test
+Much like running, the longer you type, the slower you will go; to a point. 
+We have found the 3 and 5-minute tests to be the most accurate gauge of overall typing speed, as they are long enough to produce a repeatable average speed and accuracy, without being too long as to fatigue the wrists and fingers.
+
+Familiarity of Content
+Type the same sentence over and over and you will get faster and faster. 
+Your fingers love familiar content and are quick to commit repetition to muscle memory. 
+While great for typing the most common English words, this may inflate your speed if typing the same content repeatedly. 
+To combat this, our typing tests are generated from a huge database of suitable content.
+
+But wait, how do I increase my WPM?
+Now that’s the million WPM question isn’t it? I hear our free typing tutor works pretty well, you should check it out!
+
+Happy typing!
